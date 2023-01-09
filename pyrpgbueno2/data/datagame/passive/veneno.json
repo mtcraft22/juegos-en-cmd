@@ -1,0 +1,22 @@
+{
+    "nombre":"veneno",
+    "config":{
+        "ataque":{
+            "probabilidad":10, 
+            "daño":8
+        },
+        "turnos":{
+            "max":9,
+            "min":2  
+        }
+        
+        
+    },
+    "estados":{
+        "envenena":true,
+        "paralisis":false,
+        "confunde":false,
+        "quema":false
+    },
+    "acion":"Envenena"
+}

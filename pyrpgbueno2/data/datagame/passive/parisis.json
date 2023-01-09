@@ -1,0 +1,22 @@
+{
+    "nombre":"paralisis",
+    "config":{
+        "ataque":{
+            "probabilidad":50, 
+            "daño":0
+        },
+        "turnos":{
+            "max":5,
+            "min":2  
+        }
+    
+        
+    },
+    "estados":{
+        "envenena":false,
+        "paralisis":true,
+        "confunde":false,
+        "quema":false
+    },
+    "acion": "Pepeluis"
+}
